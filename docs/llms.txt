@@ -1,0 +1,38 @@
+# Termcal
+
+> Termcal is a free, open-source tool that turns your weekly university timetable into calendar events for the whole term, skipping reading weeks, and downloads them as one calendar file for Google, Apple or Outlook Calendar.
+
+- Website: https://ashgar99.github.io/termcal/
+- Source code: https://github.com/ashgar99/termcal
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Enter each class once with its day, time and room
+- Repeats classes every teaching week of the term
+- Skips reading weeks and other weeks off
+- Exports one .ics file for Google, Apple or Outlook Calendar
+- Runs in your browser with nothing uploaded
+
+## Questions and answers
+
+### What is Termcal?
+
+Termcal is a free, open-source tool that turns your weekly university timetable into calendar events for the whole term, skipping reading weeks, and downloads them as one calendar file.
+
+### How do I get my university timetable into Google Calendar?
+
+Enter your term dates and each weekly class in Termcal, download the calendar file, then import it in Google Calendar under Settings, Import and export.
+
+### Can Termcal skip reading week?
+
+Yes. Mark any weeks without teaching, such as reading weeks, and Termcal leaves your classes out of those weeks.
+
+### Does Termcal work for any university?
+
+Yes. You enter your own term dates and classes, so it works for any university or college timetable, including ones without a calendar export.
+
+### Is my timetable uploaded anywhere?
+
+No. Termcal runs entirely in your browser and creates the calendar file on your computer.
